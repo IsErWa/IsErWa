@@ -1,0 +1,9 @@
+site_name: My site
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  custom_dir: overrides
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
